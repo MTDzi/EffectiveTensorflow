@@ -5,7 +5,7 @@ _We aim to gradually expand this series by adding new articles and keep the cont
 You can find the whole content in the `"interactive_README.ipynb"` notebook,
 which you can view (statically) on github.
 
-But you can also instantiate the `"interactive_README.ipynb"` notebook using Binder (click the badge):
+But you can also instantiate an interactive version of the `"interactive_README.ipynb"` notebook using Binder (click the badge):
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MTDzi/EffectiveTensorflow/master?filepath=interactive_README.ipynb)
 
