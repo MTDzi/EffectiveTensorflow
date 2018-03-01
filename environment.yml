@@ -1,0 +1,6 @@
+name: EffectiveTensorflow
+dependencies:
+- anaconda::python=3.6
+- anaconda::matplotlib==2.1.0
+- conda-forge::notebook==5.0
+- conda-forge::tensorflow==1.5.0
